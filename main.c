@@ -20,7 +20,7 @@ int main(void){
         if(num1==1)printf("당신은 바위를 선택  ");
         if(num1==2)printf("당신은 가위를 선택  ");
         if(num1==3)printf("당신은 보를 선택  ");
-
+    //ㅎㅇㅎㅇ
         if(num2==1)printf("컴퓨터는 바위를 선택\n ");
         if(num2==2)printf("컴퓨터는 가위를 선택\n ");
         if(num2==3)printf("컴퓨터는 보를 선택\n ");
